@@ -1,0 +1,48 @@
+[{
+  "name": "Jose",
+  "apellido": "Nunez",
+  "url_foto" : "./assets/img1.png"
+
+},
+{
+  "name": "Miriam",
+  "apellido": "Adame",
+  "url_foto" : "./assets/img2.png"
+
+},
+{
+  "name": "Juan",
+  "apellido": "Perez",
+  "url_foto" : "./assets/img3.png"
+
+},
+{
+  "name": "Francisco",
+  "apellido": "Hernandez",
+  "url_foto" : "./assets/img4.png"
+
+},
+{
+  "name": "Francisco",
+  "apellido": "Hernandez",
+  "url_foto" : "./assets/img5.png"
+
+},
+{
+  "name": "Francisco",
+  "apellido": "Hernandez",
+  "url_foto" : "./assets/img6.png"
+
+},
+{
+  "name": "Francisco",
+  "apellido": "Hernandez",
+  "url_foto" : "./assets/img7.png"
+
+},
+{
+  "name": "Renata",
+  "apellido": "Almanza",
+  "url_foto" : "./assets/img8.png"
+
+}]
