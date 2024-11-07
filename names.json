@@ -1,48 +1,48 @@
 [{
   "name": "Jose",
   "apellido": "Nunez",
-  "url_foto" : "./assets/img1.png"
+  "url_foto" : "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/3910ba12-2a91-4553-ad5e-c4f25b38b94b.4c5879929d1140aa29c346a4cd467da4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
 
 },
 {
   "name": "Miriam",
   "apellido": "Adame",
-  "url_foto" : "./assets/img2.png"
+  "url_foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIpDhgh0Q7sSJmdISvHH28DjhxJBvnfHEzQ&s"
 
 },
 {
   "name": "Juan",
   "apellido": "Perez",
-  "url_foto" : "./assets/img3.png"
+  "url_foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6eJzUdnFNVHQ0NHoIg7zmBbd_uCTy4YDqQ&s"
 
 },
 {
   "name": "Francisco",
   "apellido": "Hernandez",
-  "url_foto" : "./assets/img4.png"
+  "url_foto" : "https://www.bbva.com/wp-content/uploads/2021/03/rinoceronte-animal-peligro-extincion-150x150.jpg"
 
 },
 {
   "name": "Efrain",
   "apellido": "Trejo",
-  "url_foto" : "./assets/img5.png"
+  "url_foto" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSX9kTVLNHFsef7RH2BhnqbzJ6Bdmik6bYEUguww-c0iqM1y-KuE07qFQUwqxhkCzQb-RrK3KyzXBy44aLVa8_EZIzcJVj_LewaPdFPYAeRTux7HEKviGrHsSRsdFoxTM851Oq7T-LpF8/s1600/oso+anteojos.jpg"
 
 },
 {
   "name": "Manuel",
   "apellido": "Gonzales",
-  "url_foto" : "./assets/img6.png"
+  "url_foto" : "https://www.shutterstock.com/image-photo/giant-tortoise-el-chato-reserve-260nw-287444231.jpg"
 
 },
 {
   "name": "Michelle",
   "apellido": "Murillo",
-  "url_foto" : "./assets/img7.png"
+  "url_foto" : "https://www.eluniverso.com/resizer/v2/HARDTG52UBF6ZP2JI26XEMLOXI.jpg?auth=2efee3d94f60aae4fde6ab146b4c06afdbdd846864389c50cbd9b769f741d641&width=800&height=466&quality=75&smart=true"
 
 },
 {
   "name": "Renata",
   "apellido": "Almanza",
-  "url_foto" : "https://i.pinimg.com/736x/34/54/88/3454888b45b7d3d75e4184ee82ef2155.jpg"
+  "url_foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w8HsytXrZioLRLdZKYgBEA5Yv_3LvYKTI6MenhzBj7wasoQb41LrouOG91zf96xXgeU&usqp=CAUg"
 
 }]
