@@ -13,10 +13,73 @@
 
 },
 {
+  "name": "Renata",
+  "address": "Cualiacan Sin, Sin.",
+  "latitud": 24.800600197421875,
+  "longitud":  -107.39675736911214
+
+},
+{
+  "name": "Christian",
+  "address": "Phoenix, Az.",
+  "latitud": 33.44403980739579, 
+  "longitud": -112.08480258341444
+
+},
+{
+  "name": "Miriam",
+  "address": "Los Angeles, Ca.",
+  "latitud": 34.03915221350026, 
+  "longitud": -118.24855052264643
+
+},
+{
+  "name": "Lourdes",
+  "address": "Las Vegas, Nev.",
+  "latitud": 36.15222734082408, 
+  "longitud": -115.15113153671723 
+
+},
+{
+  "name": "Jesus",
+  "address": "Washington, DC.",
+  "latitud": 38.917919512571466, 
+  "longitud": -77.04304896521256
+
+},
+{
+  "name": "Fernanda",
+  "address": "Merida, Yu.",
+  "latitud": 20.96655917309207, 
+  "longitud": -89.61576869360906
+
+},
+{
+  "name": "Antonio",
+  "address": "Cuidad de Mexico, CDMX.",
+  "latitud": 19.434082727486004, 
+  "longitud": -99.14135288091184
+
+},
+{
+  "name": "Pablo",
+  "address": "Bogota, Col.",
+  "latitud": 4.705725932797674, 
+  "longitud": -74.07011777170396
+
+},
+{
+  "name": "Karla",
+  "address": "Vancouver, Ca.",
+  "latitud": 49.27499100132446, 
+  "longitud": -123.10124995324952
+
+},
+
+{
   "name": "Alejandra",
   "address": "La Encantada Zac, Zac",
   "latitud": 22.76023471298425, 
   "longitud": -102.58064027441866
 
 }]
-
